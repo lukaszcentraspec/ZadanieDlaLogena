@@ -1,4 +1,4 @@
-# ZadanieDlaLogena
+# Zadanie Dla Logena
 
 Zanim zaczniesz:
 1) Pobierz Git Bash - https://git-scm.com/downloads
