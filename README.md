@@ -2,7 +2,7 @@
 
 Zanim zaczniesz:
 1) Pobierz Git Bash - https://git-scm.com/downloads
-2) Do zarządzania repo uzywaj narazie git clone, git pull, git push, git commit -m "opis aktualizacji"
+2) Do zarządzania repo uzywaj narazie git clone, git pull, git commit -m "opis aktualizacji", git add ., git push
 3) Ogarnij jakis spoko IDE jak Visual studio code, Sublime Text.
 
 Etap 1:
